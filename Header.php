@@ -4,11 +4,11 @@
 #*#                  			    #*#               
 #*#  Coded by MrSqar Yemeni hacker  #*#
 #*#      							#*#
-#*#     mail : mrsqar@gmail.com		#*#
+#*#     mail : dinureddy1432@gmail.com		#*#
 #*#  			 or 				#*#
-#*#        FerzY3@yahoo.com	    	#*#
+#*#        dinureddy1432@yahoo.com	    	#*#
 #*#									#*#
-#*#      	MaDe In YeMeN			#*#
+#*#      	MaDe In India			#*#
 #*#									#*#
 #*# Note: Don't change my copyright #*#
 #*#  		 please , ok ? 			#*#
@@ -100,8 +100,8 @@ echo "            . ';'                @#%.@#%,.@                ;'` ' ."."\n";
 echo "              '                    @#%,.@                   ,."."\n";
 echo $yellow.$bold."                         -============================-                "."\n";
 echo $yellow.$bold."                          | Name   ".$green."|".$red." BadMod bot $version ".$yellow."|                "."\n";
-echo $yellow.$bold."                          | Author ".$green."|".$blue." MrSqar        ".$yellow."  |                "."\n";
-echo $yellow.$bold."                          | From   ".$green."|".$white." Yemen           ".$yellow."|                "."\n";
+echo $yellow.$bold."                          | Author ".$green."|".$blue." alex14324        ".$yellow."  |                "."\n";
+echo $yellow.$bold."                          | From   ".$green."|".$white." DinuReddy           ".$yellow."|                "."\n";
 echo $yellow.$bold."                          | Team   ".$green."|".$green." SysteM_CrasherS ".$yellow."|                "."\n";
 echo $yellow.$bold."                         -============================-                "."\n";
 echo $yellow.$bold."\n       		              STARTING  "; 
