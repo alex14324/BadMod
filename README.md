@@ -11,7 +11,7 @@
 <h2>Installation</h2>
 <ul> 
 <li>Install tool</li>
-<code>git clone https://github.com/MrSqar-Ye/BadMod.git</code>
+<code>git clone https://github.com/alex14324/BadMod.git</code>
 <li>Install php</li>
 <code>sudo apt-get install php</code>
 <li>Install php curl</li>
@@ -59,7 +59,7 @@
 <h2>Report bug.</h2>
 <ul>
 <li>Submit new issue</li>
-<li>Send to my <a href="mailto:mrsqar@gmail.com">Email</a></li>
+<li>Send to my <a href="mailto:alex143242@gmail.com">Email</a></li>
 </ul>
 <br>
 <h4>i Hope you like the tool, <3 :D :)</h4>
